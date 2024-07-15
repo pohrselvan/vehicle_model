@@ -1,0 +1,31 @@
+[0.023s] Invoking command in '/home/pohrselvan/ros2_ws/src/july_9/build/july_9': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/pohrselvan/ros2_ws/src/july_9/build/july_9 -- -j4 -l4
+[0.090s] Invoked command in '/home/pohrselvan/ros2_ws/src/july_9/build/july_9' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/pohrselvan/ros2_ws/src/july_9/build/july_9 -- -j4 -l4
+[0.156s] Invoking command in '/home/pohrselvan/ros2_ws/src/july_9/build/july_9': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/pohrselvan/ros2_ws/src/july_9/build/july_9
+[0.175s] -- Install configuration: ""
+[0.176s] -- Up-to-date: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/robot_description
+[0.176s] -- Up-to-date: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/robot_description/chassis.xacro
+[0.176s] -- Up-to-date: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/robot_description/lidar.xacro
+[0.177s] -- Up-to-date: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/robot_description/inertial.xacro
+[0.177s] -- Up-to-date: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/robot_description/gazebo_control.xacro
+[0.178s] -- Up-to-date: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/robot_description/robot.urdf.xacro
+[0.178s] -- Installing: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/robot_description/ros2_control_wheel.xacro
+[0.179s] -- Up-to-date: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/robot_description/robot_core.xacro
+[0.179s] -- Up-to-date: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/launch
+[0.179s] -- Up-to-date: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/launch/rsp.launch.py
+[0.180s] -- Up-to-date: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/launch/launch_sim.launch.py
+[0.180s] -- Up-to-date: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/ament_index/resource_index/package_run_dependencies/july_9
+[0.180s] -- Up-to-date: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/ament_index/resource_index/parent_prefix_path/july_9
+[0.180s] -- Up-to-date: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/environment/ament_prefix_path.sh
+[0.181s] -- Up-to-date: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/environment/ament_prefix_path.dsv
+[0.181s] -- Up-to-date: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/environment/path.sh
+[0.181s] -- Up-to-date: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/environment/path.dsv
+[0.181s] -- Up-to-date: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/local_setup.bash
+[0.182s] -- Up-to-date: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/local_setup.sh
+[0.182s] -- Up-to-date: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/local_setup.zsh
+[0.182s] -- Up-to-date: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/local_setup.dsv
+[0.183s] -- Installing: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/package.dsv
+[0.183s] -- Up-to-date: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/ament_index/resource_index/packages/july_9
+[0.184s] -- Up-to-date: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/cmake/july_9Config.cmake
+[0.184s] -- Up-to-date: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/cmake/july_9Config-version.cmake
+[0.184s] -- Up-to-date: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/package.xml
+[0.188s] Invoked command in '/home/pohrselvan/ros2_ws/src/july_9/build/july_9' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/pohrselvan/ros2_ws/src/july_9/build/july_9

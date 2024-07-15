@@ -1,0 +1,47 @@
+[0.009s] Invoking command in '/home/pohrselvan/ros2_ws/src/july_9/build/july_9': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/pohrselvan/ros2_ws/src/july_9 -DCMAKE_INSTALL_PREFIX=/home/pohrselvan/ros2_ws/src/july_9/install/july_9
+[0.144s] -- The C compiler identification is GNU 11.4.0
+[0.238s] -- The CXX compiler identification is GNU 11.4.0
+[0.247s] -- Detecting C compiler ABI info
+[0.305s] -- Detecting C compiler ABI info - done
+[0.311s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.311s] -- Detecting C compile features
+[0.312s] -- Detecting C compile features - done
+[0.315s] -- Detecting CXX compiler ABI info
+[0.380s] -- Detecting CXX compiler ABI info - done
+[0.386s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.386s] -- Detecting CXX compile features
+[0.387s] -- Detecting CXX compile features - done
+[0.391s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.520s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.604s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.675s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.675s] -- Configured cppcheck include dirs: 
+[0.675s] -- Configured cppcheck exclude dirs and/or files: 
+[0.677s] -- Added test 'lint_cmake' to check CMake code style
+[0.680s] -- Added test 'uncrustify' to check C / C++ code style
+[0.680s] -- Configured uncrustify additional arguments: 
+[0.681s] -- Added test 'xmllint' to check XML markup files
+[0.682s] -- Configuring done
+[0.685s] -- Generating done
+[0.685s] -- Build files have been written to: /home/pohrselvan/ros2_ws/src/july_9/build/july_9
+[0.689s] Invoked command in '/home/pohrselvan/ros2_ws/src/july_9/build/july_9' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/pohrselvan/ros2_ws/src/july_9 -DCMAKE_INSTALL_PREFIX=/home/pohrselvan/ros2_ws/src/july_9/install/july_9
+[0.690s] Invoking command in '/home/pohrselvan/ros2_ws/src/july_9/build/july_9': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/pohrselvan/ros2_ws/src/july_9/build/july_9 -- -j4 -l4
+[0.719s] Invoked command in '/home/pohrselvan/ros2_ws/src/july_9/build/july_9' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/pohrselvan/ros2_ws/src/july_9/build/july_9 -- -j4 -l4
+[0.744s] Invoking command in '/home/pohrselvan/ros2_ws/src/july_9/build/july_9': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/pohrselvan/ros2_ws/src/july_9/build/july_9
+[0.750s] -- Install configuration: ""
+[0.750s] -- Installing: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/ament_index/resource_index/package_run_dependencies/july_9
+[0.750s] -- Installing: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/ament_index/resource_index/parent_prefix_path/july_9
+[0.750s] -- Installing: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/environment/ament_prefix_path.sh
+[0.750s] -- Installing: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/environment/ament_prefix_path.dsv
+[0.750s] -- Installing: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/environment/path.sh
+[0.750s] -- Installing: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/environment/path.dsv
+[0.751s] -- Installing: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/local_setup.bash
+[0.751s] -- Installing: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/local_setup.sh
+[0.751s] -- Installing: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/local_setup.zsh
+[0.751s] -- Installing: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/local_setup.dsv
+[0.751s] -- Installing: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/package.dsv
+[0.751s] -- Installing: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/ament_index/resource_index/packages/july_9
+[0.751s] -- Installing: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/cmake/july_9Config.cmake
+[0.751s] -- Installing: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/cmake/july_9Config-version.cmake
+[0.751s] -- Installing: /home/pohrselvan/ros2_ws/src/july_9/install/july_9/share/july_9/package.xml
+[0.753s] Invoked command in '/home/pohrselvan/ros2_ws/src/july_9/build/july_9' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/pohrselvan/ros2_ws/src/july_9/build/july_9

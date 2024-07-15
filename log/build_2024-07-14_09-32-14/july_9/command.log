@@ -1,0 +1,2 @@
+Invoking command in '/home/pohrselvan/ros2_ws/src/july_9/build/july_9': /usr/bin/cmake --build /home/pohrselvan/ros2_ws/src/july_9/build/july_9 -- -j4 -l4
+Invoked command in '/home/pohrselvan/ros2_ws/src/july_9/build/july_9' returned '2': /usr/bin/cmake --build /home/pohrselvan/ros2_ws/src/july_9/build/july_9 -- -j4 -l4
